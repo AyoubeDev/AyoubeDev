@@ -1,26 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=AyoubeDev&fontColor=ffffff&fontSize=60&animation=fadei, I'm Ayoube
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ayoube%Size=60&fontAlignY=40&animation=fadeIn
 
-### 👨‍🍳 Chef by trade | 💻 Backend Developer in progress | 🏃 Runner
+# 👋 Hi, I'm Ayoube
 
-> Building my future one commit at a time.
+### Software Development Student | Future Backend Engineer | Technology Enthusiast
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Development+Student;Backend+Development+Enthusiast;Always+Learning+Something+New;Exploring+Systems%2C+Infrastructure+%26+IoT;Building+Projects+One+Step+at/div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a technology enthusiast currently transitioning from professional cooking to software development.
+I'm currently studying **Cross-platform Application Development (DAM)** and building my path towards becoming a software engineer.
 
-Working as a chef taught me discipline, teamwork, adaptability, and how to perform under pressure. These are the same qualities I bring into every project I build.
+I enjoy understanding how systems work, solving problems through code, and continuously learning new technologies.
 
-- 🏃 I enjoy running, and programming is a great place to do it.
-- 🍜 Food lover
-- 💻 Passionate about software development
-- 🚀 Always learning something new
-- 🔧 Curious about how things work
+My main interests are focused on **software development**, **backend systems**, **databases**, and **infrastructure**, while also exploring the world of embedded devices and system integration.
+
+> **"Learning, building, improving, repeat."**
+
+---
+
+## 💻 Software Development
+
+Throughout my studies and personal projects, I have worked with:
+
+- Object-Oriented Programming
+- Software Design Principles
+- Data Structures & Algorithms
+- Java Development
+- Python Development
+- REST API Fundamentals
+- Database Systems
+- SQL Development
+- Testing & Debugging
+- Version Control
+- Agile Methodologies
+- XML & JSON Processing
 
 ---
 
@@ -28,32 +45,90 @@ Working as a chef taught me discipline, teamwork, adaptability, and how to perfo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,gresql,git,github,linux,vscode,bash,docker,arduino
+<img src="https://skillicons.dev/icons?i=java,python,mysql,,git,github,linux,vscode,docker,bash
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🗄️ Database Technologies
+
+- PostgreSQL
+- MySQL
+- SQL Query Design
+- Database Modeling
+- Database Normalization
+- Relational Database Concepts
+- Data Management Fundamentals
+
+---
+
+## ⚙️ Systems & Infrastructure
+
+Areas I actively explore and continue learning:
+
+- Linux Environments
+- Bash Scripting Fundamentals
+- Docker Fundamentals
+- Networking Basics
+- Virtualization Concepts
+- System Integration
+- Infrastructure Fundamentals
+- DevOps Concepts
+
+---
+
+## 🔌 Embedded Systems & Electronics
+
+Software is my main focus, but I'm also interested in the interaction between hardware and software.
+
+### Basic Knowledge
+
+- ESP32 Development
+- Raspberry Pi Environments
+- Breadboard Prototyping
+- Sensors & Actuators
+- GPIO Management
+- IoT Fundamentals
+- Home Automation Concepts
+- Hardware & Software Integration
+
+---
+
+## 🎯 Areas of Interest
 
 ```text
 Backend Development
-API Design
 Database Systems
 Cloud Computing
-DevOps Fundamentals
-IoT & ESP32
+Software Architecture
+System Integration
+Infrastructure
+DevOps
+IoT & Embedded Systems
 ```
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Currently Learning
+
+- Advanced Backend Development
+- Cloud Fundamentals
+- Clean Architecture
+- Docker
+- Networking
+- Secure Development Practices
+- Scalable Software Design
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyoubeDevkyonight
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyoubeDev&yonight&hide_border=true
 
-<img height="180em" src="https://github-readme-langs/?username=AyoubeDev&layout=compact&theme=tokyonight
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubeDev&onight&hide_border=true
 
 </div>
 
@@ -63,58 +138,43 @@ IoT & ESP32
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.youbeDev&theme=tokyonight
+<img src="https://streak-stats.demolab.com?user=AyoubeDev&onight&hide_border=true
 
 </div>
 
 ---
 
-## 💡 A Few Things About Me
+## 🧠 Beyond Coding
 
-```yaml
-Name: Ayoube
-Location: Barcelona, Spain
-Background: Professional Chef
-Current Goal: Become a Backend Engineer
-Interests:
-  - Programming
-  - Running
-  - Cloud Computing
-  - Databases
-  - IoT Projects
-  - Motorcycles
-```
+- 🏃 Running enthusiast
+- 🍜 Food lover
+- 🔍 Curious about how things work
+- 🚀 Passionate about continuous learning
+- 💡 Always looking for new challenges and opportunities to grow
 
 ---
 
-## 🚧 Featured Projects
+## 🎯 Current Goals
 
-### 🤟 Sign Language Recognition
-Developing technologies focused on translating sign language into digital interactions.
-
-### 🤖 ESP32 & IoT
-Experiments and projects involving sensors, automation and embedded systems.
-
-### 🗄️ Database Systems
-SQL, PostgreSQL, data modelling and backend integration.
-
-### ☁️ Cloud Computing
-Learning cloud technologies and scalable application architectures.
+- Build meaningful software projects
+- Strengthen backend development skills
+- Improve system and infrastructure knowledge
+- Expand cloud computing expertise
+- Contribute to open-source projects
+- Begin my professional career in software development
 
 ---
 
-## 🏆 Philosophy
-
-> "Learning, building, and improving one project at a time."
-
----
-
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
-https://www.linkedin.com
-    <img src="httpsons.dev/icons?i=linkedin
+https://github.com/AyoubeDev
+  https://skillicons.dev/icons?i=github
+</a>
+
+https://linkedin.com
+  https://skillicons.dev/icons?i=linkedin
 </a>
 
 </div>
@@ -123,8 +183,8 @@ https://www.linkedin.com
 
 <div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+### ⭐ Building my future one commit at a time ⭐
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color50:203A43,100:2C5364
+<img src="https-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient
