@@ -1,57 +1,72 @@
-# Hi, I'm Ayoube 👋
+👋 Hey, I'm Ayoube
+💻 Software Development Student · Backend · Systems · Infrastructure
 
-> Software Development student focused on building reliable software, learning modern technologies, and continuously improving through real-world projects.
+Building reliable software, exploring modern technologies, and turning ideas into real-world projects.
 
----
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Ayoube&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> </p> <p align="center"> <a href="https://github.com/"> <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ayoube-chilah-assanhaji-85b660334/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/hayoube__"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+🧑‍💻 About Me
 
-## 🚀 About Me
+I'm a Software Development student passionate about understanding how technology works from the application layer down to the infrastructure underneath it.
 
-Passionate about software development, backend systems, and technology.  
-Currently exploring how software, infrastructure, and hardware interact to create complete solutions.
+I enjoy building projects that combine:
 
----
+🧩 Software development
 
-### Software Development## 💻 My Skills
- 
-### Programming Languages
- 
-!ttps://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white
-![Python](g.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
- 
-### Web Development
- 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7-the-badge&logo=javascript&logoColor=black
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&=white
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoite
- 
-### Databases
- 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-thego=mysql&logoColor=white
-![PostgreSQL](https://img.shields.io/badge/Postgrele=for-the-badge&logo=postgresql&logoColor=white
- 
-### Systems & Infrastructure
- 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&=black
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badgeer&logoColor=white
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=oColor=white
- 
-### Embedded & IoT
- 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-y Pi](https://img.shields.io/badge/Raspberry%20Pi-C51e-badge&logo=raspberrypi&logoColor=white
----
+⚙️ Backend systems
 
-## 🎯 Current Focus
+🗄️ Databases
 
-Building a strong foundation in software engineering while expanding my knowledge of backend development, cloud technologies, infrastructure, and system integration.
+🐧 Linux & infrastructure
 
----
+🐳 Containerization
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ayoube-chilah-assanhaji-85b660334/">
-<img src="https://skillicons.dev/icons?i=linkedin" /tps://instagram.com/hayoube__
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" />
+🔌 Embedded systems & IoT
 
----
+🌐 Web technologies
 
-> Building knowledge one project at a time.
+I'm particularly interested in how software, infrastructure, and hardware can work together to create complete and reliable solutions.
+
+🛠️ Tech Stack
+👨‍💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=java,python" /> </p>
+🌐 Web Development
+<p> <img src="https://skillicons.dev/icons?i=javascript,html,css" /> </p>
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=mysql,postgresql" /> </p>
+⚙️ Systems & Infrastructure
+<p> <img src="https://skillicons.dev/icons?i=linux,docker,git" /> </p>
+🔌 Embedded & IoT
+<p> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /> </p>
+🚀 What I'm Working On
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   💻 Software Engineering                              │
+│   ├── Backend Development                               │
+│   ├── Clean & Reliable Code                            │
+│   └── Real-world Projects                              │
+│                                                         │
+│   ☁️ Infrastructure                                    │
+│   ├── Linux                                             │
+│   ├── Docker                                            │
+│   └── Cloud Technologies                                │
+│                                                         │
+│   🔌 Hardware & Systems                                │
+│   ├── Embedded Systems                                  │
+│   ├── IoT                                               │
+│   └── Software ↔ Hardware Integration                  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
+🎯 Current Focus
+
+I'm currently focused on strengthening my foundations in software engineering while expanding my knowledge in:
+
+Backend Development · Cloud · Infrastructure · System Integration
+
+My goal is to keep learning by building, experimenting, breaking things, and improving them through real projects.
+
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/ayoube-chilah-assanhaji-85b660334/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/hayoube__"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+<p align="center"> <i>Building knowledge one project at a time.</i> 🚀 </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" /> </p>
