@@ -26,16 +26,7 @@ I'm particularly interested in how software, infrastructure, and hardware can wo
 </p>
 
 🛠️ Tech Stack
-👨‍💻 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=java,python" /> </p>
-🌐 Web Development
-<p> <img src="https://skillicons.dev/icons?i=javascript,html,css" /> </p>
-🗄️ Databases
-<p> <img src="https://skillicons.dev/icons?i=mysql,postgresql" /> </p>
-⚙️ Systems & Infrastructure
-<p> <img src="https://skillicons.dev/icons?i=linux,docker,git" /> </p>
-🔌 Embedded & IoT
-<p> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /> </p>
+<table> <tr> <td align="center" width="33%"> <b>👨‍💻 Languages</b> <br><br> <img src="https://skillicons.dev/icons?i=java,python" /> </td> <td align="center" width="33%"> <b>🌐 Web Development</b> <br><br> <img src="https://skillicons.dev/icons?i=javascript,html,css" /> </td> <td align="center" width="33%"> <b>🗄️ Databases</b> <br><br> <img src="https://skillicons.dev/icons?i=mysql,postgresql" /> </td> </tr> <tr> <td align="center" width="33%"> <b>⚙️ Systems & Infrastructure</b> <br><br> <img src="https://skillicons.dev/icons?i=linux,docker,git" /> </td> <td align="center" width="33%"> <b>🔌 Embedded & IoT</b> <br><br> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /> </td> <td align="center" width="33%"> <b>🚀 Exploring</b> <br><br> <img src="https://skillicons.dev/icons?i=cloudflare,github" /> </td> </tr> </table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
