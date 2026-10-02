@@ -7,6 +7,10 @@
 I'm a Software Development student passionate about understanding how technology works from the application layer down to the infrastructure underneath it.
 Building reliable software, exploring modern technologies, and turning ideas into real-world projects.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
+
 🧩 What I Like Building
 
 I enjoy building projects where software, systems, and hardware come together.
@@ -16,6 +20,10 @@ I enjoy building projects where software, systems, and hardware come together.
 🌐 Interested in the bigger picture: from writing the code to understanding the systems running underneath it.
 
 I'm particularly interested in how software, infrastructure, and hardware can work together to create complete and reliable solutions.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 🛠️ Tech Stack
 👨‍💻 Programming Languages
@@ -28,25 +36,10 @@ I'm particularly interested in how software, infrastructure, and hardware can wo
 <p> <img src="https://skillicons.dev/icons?i=linux,docker,git" /> </p>
 🔌 Embedded & IoT
 <p> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /> </p>
-🚀 What I'm Working On
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   💻 Software Engineering                              │
-│   ├── Backend Development                               │
-│   ├── Clean & Reliable Code                            │
-│   └── Real-world Projects                              │
-│                                                         │
-│   ☁️ Infrastructure                                    │
-│   ├── Linux                                             │
-│   ├── Docker                                            │
-│   └── Cloud Technologies                                │
-│                                                         │
-│   🔌 Hardware & Systems                                │
-│   ├── Embedded Systems                                  │
-│   ├── IoT                                               │
-│   └── Software ↔ Hardware Integration                  │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
 
 🎯 Current Focus
 
@@ -56,8 +49,10 @@ Backend Development · Cloud · Infrastructure · System Integration
 
 My goal is to keep learning by building, experimenting, breaking things, and improving them through real projects.
 
-📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</p>
+
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/ayoube-chilah-assanhaji-85b660334/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/hayoube__"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
 <p align="center"> <i>Building knowledge one project at a time.</i> 🚀 </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" /> </p>
