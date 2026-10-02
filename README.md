@@ -1,190 +1,105 @@
-<div align="center">
+# Hi, I'm Ayoube 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ayoube%Size=60&fontAlignY=40&animation=fadeIn
+Software Development student with a strong interest in backend development, databases, systems, and technology.
 
-# 👋 Hi, I'm Ayoube
-
-### Software Development Student | Future Backend Engineer | Technology Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Development+Student;Backend+Development+Enthusiast;Always+Learning+Something+New;Exploring+Systems%2C+Infrastructure+%26+IoT;Building+Projects+One+Step+at/div>
-
----
-
-## 🚀 About Me
-
-I'm currently studying **Cross-platform Application Development (DAM)** and building my path towards becoming a software engineer.
-
-I enjoy understanding how systems work, solving problems through code, and continuously learning new technologies.
-
-My main interests are focused on **software development**, **backend systems**, **databases**, and **infrastructure**, while also exploring the world of embedded devices and system integration.
-
-> **"Learning, building, improving, repeat."**
+Currently focused on building a solid foundation in software engineering while exploring infrastructure, cloud technologies, and hardware integration.
 
 ---
 
 ## 💻 Software Development
 
-Throughout my studies and personal projects, I have worked with:
+Throughout my studies and personal projects I've worked with:
 
 - Object-Oriented Programming
-- Software Design Principles
-- Data Structures & Algorithms
 - Java Development
 - Python Development
-- REST API Fundamentals
-- Database Systems
 - SQL Development
-- Testing & Debugging
-- Version Control
-- Agile Methodologies
-- XML & JSON Processing
+- REST API Fundamentals
+- Software Testing & Debugging
+- Data Structures & Algorithms
+- Version Control with Git
+- Agile Development Practices
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql,,git,github,linux,vscode,docker,bash
-
-</div>
-
----
-
-## 🗄️ Database Technologies
+## 🗄️ Databases
 
 - PostgreSQL
 - MySQL
-- SQL Query Design
 - Database Modeling
 - Database Normalization
-- Relational Database Concepts
-- Data Management Fundamentals
+- Query Design
+- Relational Database Systems
 
 ---
 
 ## ⚙️ Systems & Infrastructure
 
-Areas I actively explore and continue learning:
+Areas I'm actively learning and exploring:
 
 - Linux Environments
-- Bash Scripting Fundamentals
 - Docker Fundamentals
+- Bash Scripting
 - Networking Basics
 - Virtualization Concepts
 - System Integration
-- Infrastructure Fundamentals
-- DevOps Concepts
+- DevOps Fundamentals
 
 ---
 
-## 🔌 Embedded Systems & Electronics
+## 🔌 Embedded Systems & IoT
 
-Software is my main focus, but I'm also interested in the interaction between hardware and software.
+Basic knowledge and personal interest in:
 
-### Basic Knowledge
-
-- ESP32 Development
-- Raspberry Pi Environments
+- ESP32
+- Raspberry Pi
 - Breadboard Prototyping
 - Sensors & Actuators
 - GPIO Management
 - IoT Fundamentals
-- Home Automation Concepts
 - Hardware & Software Integration
 
 ---
 
-## 🎯 Areas of Interest
+## 🚀 Current Interests
 
-```text
-Backend Development
-Database Systems
-Cloud Computing
-Software Architecture
-System Integration
-Infrastructure
-DevOps
-IoT & Embedded Systems
-```
+- Backend Development
+- Software Architecture
+- Cloud Computing
+- System Integration
+- Infrastructure
+- DevOps
+- Embedded Systems
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Backend Development
+- Advanced Java
+- Backend Development
 - Cloud Fundamentals
-- Clean Architecture
 - Docker
-- Networking
+- Software Architecture
 - Secure Development Practices
-- Scalable Software Design
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/apiDev&show_icons=true&theme=transparent
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyoubeDev&yonight&hide_border=true
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubeDev&onight&hide_border=true
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.appsername=AyoubeDev&layout=compact&theme=transparent
 
 ---
 
-## 🔥 Contribution Streak
+## 🎯 Goals
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AyoubeDev&onight&hide_border=true
-
-</div>
-
----
-
-## 🧠 Beyond Coding
-
-- 🏃 Running enthusiast
-- 🍜 Food lover
-- 🔍 Curious about how things work
-- 🚀 Passionate about continuous learning
-- 💡 Always looking for new challenges and opportunities to grow
+- Build meaningful projects
+- Improve backend development skills
+- Expand infrastructure knowledge
+- Learn cloud technologies
+- Start a professional career in software development
 
 ---
 
-## 🎯 Current Goals
-
-- Build meaningful software projects
-- Strengthen backend development skills
-- Improve system and infrastructure knowledge
-- Expand cloud computing expertise
-- Contribute to open-source projects
-- Begin my professional career in software development
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-https://github.com/AyoubeDev
-  https://skillicons.dev/icons?i=github
-</a>
-
-https://linkedin.com
-  https://skillicons.dev/icons?i=linkedin
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Building my future one commit at a time ⭐
-
-</div>
-
-<img src="https-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient
+> Building knowledge one project at a time.
