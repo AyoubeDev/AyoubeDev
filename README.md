@@ -1,104 +1,84 @@
 # Hi, I'm Ayoube 👋
 
-Software Development student with a strong interest in backend development, databases, systems, and technology.
-
-Currently focused on building a solid foundation in software engineering while exploring infrastructure, cloud technologies, and hardware integration.
+> Software Development student focused on building reliable software, learning modern technologies, and continuously improving through real-world projects.
 
 ---
 
-## 💻 Software Development
+## 🚀 About Me
 
-Throughout my studies and personal projects I've worked with:
-
-- Object-Oriented Programming
-- Java Development
-- Python Development
-- SQL Development
-- REST API Fundamentals
-- Software Testing & Debugging
-- Data Structures & Algorithms
-- Version Control with Git
-- Agile Development Practices
+Passionate about software development, backend systems, and technology.  
+Currently exploring how software, infrastructure, and hardware interact to create complete solutions.
 
 ---
 
-## 🗄️ Databases
+## 💻 My Skills
 
-- PostgreSQL
-- MySQL
-- Database Modeling
-- Database Normalization
-- Query Design
-- Relational Database Systems
+### Web Development
 
----
+```text
+HTML • CSS • JavaScript
+REST APIs
+Web Architecture Fundamentals
+```
 
-## ⚙️ Systems & Infrastructure
+### Software Development
 
-Areas I'm actively learning and exploring:
+```text
+Java • Python
+Object-Oriented Programming
+Data Structures & Algorithms
+Software Design Principles
+Testing & Debugging
+```
 
-- Linux Environments
-- Docker Fundamentals
-- Bash Scripting
-- Networking Basics
-- Virtualization Concepts
-- System Integration
-- DevOps Fundamentals
+### Data & Databases
 
----
+```text
+PostgreSQL • MySQL
+Database Modeling
+SQL Development
+Database Design
+```
 
-## 🔌 Embedded Systems & IoT
+### Systems & Infrastructure
 
-Basic knowledge and personal interest in:
-
-- ESP32
-- Raspberry Pi
-- Breadboard Prototyping
-- Sensors & Actuators
-- GPIO Management
-- IoT Fundamentals
-- Hardware & Software Integration
-
----
-
-## 🚀 Current Interests
-
-- Backend Development
-- Software Architecture
-- Cloud Computing
-- System Integration
-- Infrastructure
-- DevOps
-- Embedded Systems
+```text
+Linux
+Git & GitHub
+Docker Fundamentals
+Networking Basics
+System Integration
+```
 
 ---
 
-## 📚 Currently Learning
+## 🔌 Interests
 
-- Advanced Java
-- Backend Development
-- Cloud Fundamentals
-- Docker
-- Software Architecture
-- Secure Development Practices
+Beyond software development, I enjoy learning about technologies that bridge hardware and software.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/apiDev&show_icons=true&theme=transparent
-
-![Top Languages](https://github-readme-stats.vercel.appsername=AyoubeDev&layout=compact&theme=transparent
+```text
+ESP32
+Raspberry Pi
+IoT
+Embedded Systems
+Electronics Fundamentals
+Prototyping
+```
 
 ---
 
-## 🎯 Goals
+## 🎯 Current Focus
 
-- Build meaningful projects
-- Improve backend development skills
-- Expand infrastructure knowledge
-- Learn cloud technologies
-- Start a professional career in software development
+Building a strong foundation in software engineering while expanding my knowledge of backend development, cloud technologies, infrastructure, and system integration.
+
+---
+
+## 🤝 Contact Me
+
+📍 Barcelona, Spain
+
+- GitHub: github.com/AyoubeDev
+- LinkedIn: your-linkedin-profile
 
 ---
 
