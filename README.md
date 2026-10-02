@@ -39,32 +39,6 @@ Database Modeling
 SQL Development
 Database Design
 ```
-
-### Systems & Infrastructure
-
-```text
-Linux
-Git & GitHub
-Docker Fundamentals
-Networking Basics
-System Integration
-```
-
----
-
-## 🔌 Interests
-
-Beyond software development, I enjoy learning about technologies that bridge hardware and software.
-
-```text
-ESP32
-Raspberry Pi
-IoT
-Embedded Systems
-Electronics Fundamentals
-Prototyping
-```
-
 ---
 
 ## 🎯 Current Focus
@@ -73,12 +47,10 @@ Building a strong foundation in software engineering while expanding my knowledg
 
 ---
 
-## 🤝 Contact Me
-
-📍 Barcelona, Spain
-
-- GitHub: github.com/AyoubeDev
-- LinkedIn: your-linkedin-profile
+<p align="left">
+<a href="https://www.linkedin.com/in/ayoube-chilah-assanhaji-85b660334/">
+<img src="https://skillicons.dev/icons?i=linkedin" /tps://instagram.com/hayoube__
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" />
 
 ---
 
